@@ -27,4 +27,5 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
+Integrantes: Luis Ernesto Tejón Rojas, Correo: l.tejon@uniandes.edu.co Código: 202113150 y Sergio Rincón, Correo: si.rincon@uniandes.edu.co Código: 201914107. 
 
